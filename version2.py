@@ -6,5 +6,3 @@ print("I am glad that you are",emotion)
 distance = input ("Where do you live?")
 distance = input ("How far is Croydon from your school?")
 input ("That is a big distance that you have to travel")
-
-git commit
